@@ -1,17 +1,9 @@
-                                                    Niranjan K
+                                               # **NIRANJAN K**
+                                💻 Full Stack Developer | Java | Spring Boot | React
 
-                               ### 💻 Full Stack Developer | Java | Spring Boot | React
+**Full Stack Development - Backend Systems - AI**
 
-I'm a final-year Computer Science Engineering student passionate about building
-scalable web applications, backend systems, and AI-powered solutions.
-
-- 🔭 Currently working on **VeeLearn** – a skill-sharing and time-banking platform
-- 🚀 Building projects using **Java, Spring Boot, React, Node.js, and PostgreSQL**
-- 🤖 Interested in **AI, Generative AI, and intelligent developer tools**
-- 🌱 Currently improving my **Data Structures & Algorithms and Full Stack Development**
-- 💡 I enjoy solving problems and turning ideas into practical applications
-- 📫 Open to **Software Developer / Full Stack Developer opportunities**
-
+Building scalable web applications, robust backend systems, and AI-powered solutions.
 ---
 
 ## 🛠️ Tech Stack
@@ -19,7 +11,6 @@ scalable web applications, backend systems, and AI-powered solutions.
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Frontend
@@ -30,8 +21,7 @@ scalable web applications, backend systems, and AI-powered solutions.
 
 ### Backend
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
 
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -44,6 +34,14 @@ scalable web applications, backend systems, and AI-powered solutions.
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
+### 🧠 Core Computer Science
+
+![DSA](https://img.shields.io/badge/DSA-8B0000?style=flat-square)
+![System Design](https://img.shields.io/badge/System_Design-1F3A93?style=flat-square)
+![OOP](https://img.shields.io/badge/OOP-8B0000?style=flat-square)
+![DBMS](https://img.shields.io/badge/DBMS-1F3A93?style=flat-square)
+![Operating Systems](https://img.shields.io/badge/Operating_Systems-8B0000?style=flat-square)
+![Computer Networks](https://img.shields.io/badge/Computer_Networks-1F3A93?style=flat-square)
 ---
 
 ## 🚀 Featured Projects
