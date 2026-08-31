@@ -1,6 +1,6 @@
-# Hi 👋, I'm Niran K
+                                                    Niranjan K
 
-### 💻 Full Stack Developer | Java | Spring Boot | React
+                               ### 💻 Full Stack Developer | Java | Spring Boot | React
 
 I'm a final-year Computer Science Engineering student passionate about building
 scalable web applications, backend systems, and AI-powered solutions.
