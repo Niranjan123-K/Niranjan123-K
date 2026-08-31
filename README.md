@@ -110,7 +110,7 @@ Actively strengthening core fundamentals through consistent practice.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat-square\&logo=linkedin\&logoColor=white)](LINKEDIN_PROFILE_LINK)
-[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat-square\&logo=github\&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/niranjan-kn/)
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Niranjan123-K)
 
 </div>
