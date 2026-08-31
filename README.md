@@ -1,125 +1,116 @@
-                                               # **NIRANJAN K**
-                                💻 Full Stack Developer | Java | Spring Boot | React
+<div align="center">
 
-**Full Stack Development - Backend Systems - AI**
+# NIRANJAN K
 
-Building scalable web applications, robust backend systems, and AI-powered solutions.
----
+**Full Stack Development · Backend Systems · AI**
 
-## 🛠️ Tech Stack
+Software developer focused on full-stack development, backend engineering, and AI-powered applications.
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+</div>
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<br>
 
-### Backend
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+## What I Build
 
+→ Scalable full-stack web applications
+→ Reliable backend systems & REST APIs
+→ AI-powered applications & developer tools
+→ Practical solutions with clean architecture
 
-### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+<br>
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+## Tech Stack
 
-### 🧠 Core Computer Science
+<table>
+<tr>
+<td valign="top" width="50%">
 
-![DSA](https://img.shields.io/badge/DSA-8B0000?style=flat-square)
-![System Design](https://img.shields.io/badge/System_Design-1F3A93?style=flat-square)
-![OOP](https://img.shields.io/badge/OOP-8B0000?style=flat-square)
-![DBMS](https://img.shields.io/badge/DBMS-1F3A93?style=flat-square)
-![Operating Systems](https://img.shields.io/badge/Operating_Systems-8B0000?style=flat-square)
-![Computer Networks](https://img.shields.io/badge/Computer_Networks-1F3A93?style=flat-square)
----
+**Languages**
+![Java](https://img.shields.io/badge/-Java-000?style=flat-square\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-000?style=flat-square\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat-square\&logo=javascript\&logoColor=white)
 
-## 🚀 Featured Projects
+**Frontend**
+![HTML](https://img.shields.io/badge/-HTML5-000?style=flat-square\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-000?style=flat-square\&logo=css3\&logoColor=white)
+![React](https://img.shields.io/badge/-React-000?style=flat-square\&logo=react\&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-000?style=flat-square\&logo=tailwindcss\&logoColor=white)
 
-### 🧠 DevAssist – AI-Powered Spring Boot Developer Assistant
-An AI-powered developer tool that analyzes runtime behavior, exceptions,
-performance issues, bean dependencies, and application traces to help
-developers understand **what happened, why it happened, and how to fix it**.
+</td>
+<td valign="top" width="50%">
 
-**Tech:** Java • Spring Boot • React • Vite • Tailwind CSS • AI
+**Backend**
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-000?style=flat-square\&logo=springboot\&logoColor=white)
 
----
+**Database**
+![MySQL](https://img.shields.io/badge/-MySQL-000?style=flat-square\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat-square\&logo=postgresql\&logoColor=white)
 
-### 🎓 VeeLearn – Skill Sharing & Time Banking Platform
-A modern platform where users can exchange skills using time credits.
-Users can offer skills, learn from others, manage sessions, and connect
-through online meetings.
+**Tools**
+![Git](https://img.shields.io/badge/-Git-000?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat-square\&logo=github\&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-000?style=flat-square\&logo=postman\&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-000?style=flat-square\&logo=firebase\&logoColor=white)
 
-**Tech:** React • Node.js • Express.js • PostgreSQL • JWT • Socket.IO
+</td>
+</tr>
+</table>
 
----
+## 🧠 Engineering Fundamentals
 
-### 🌱 Smart Plant Care System
-An IoT-based plant monitoring system that tracks soil moisture,
-temperature, and humidity using sensors and provides automated
-irrigation alerts.
+<table>
+<tr>
+<td align="center"><b>DSA</b><br><sub>Problem Solving</sub></td>
+<td align="center"><b>OOP</b><br><sub>Design Principles</sub></td>
+<td align="center"><b>DBMS</b><br><sub>Data & Queries</sub></td>
+</tr>
+<tr>
+<td align="center"><b>OS</b><br><sub>System Fundamentals</sub></td>
+<td align="center"><b>Networks</b><br><sub>Communication</sub></td>
+<td align="center"><b>System Design</b><br><sub>Scalable Architecture</sub></td>
+</tr>
+</table>
 
-**Tech:** Arduino • DHT11 • Soil Moisture Sensor • IoT
+<br>
 
----
+## Projects
 
-### ♿ Multimodal AI Web Accessibility Assistant
-An AI-powered accessibility solution designed to help visually impaired
-users interact with web content using voice and multimodal AI technologies.
+| Project                                                       | Description                                                                                                          | Tech Stack                        |
+| ------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | --------------------------------- |
+| **[VeeLearn](PROJECT_LINK)**                                  | Reciprocal learning marketplace where users act as both learner and teacher, backed by a ledger-based credit system. | Spring Boot · React · MySQL · JWT |
+| **[Multimodal AI Web Accessibility Assistant](PROJECT_LINK)** | Accessibility assistant leveraging multimodal AI to help users navigate and interact with web content.               | AI / LLM · JavaScript             |
+| **[BeaconFlow](PROJECT_LINK)**                                | A workflow-oriented application designed around structured, event-driven processes.                                  | Full Stack                        |
 
-**Tech:** JavaScript • Python • FastAPI • Whisper AI • Llama
+<br>
 
----
+## Problem Solving
 
-## 🧩 Problem Solving
+Actively strengthening core fundamentals through consistent practice.
 
-- 💻 Regularly practicing **Data Structures & Algorithms**
-- 🧠 Focus areas: Arrays, Strings, HashMap, Sliding Window, Two Pointers,
-  Binary Search, Recursion, Backtracking & Dynamic Programming
-- 🏆 Solving problems on **LeetCode**
+* 🧩 Data Structures & Algorithms
+* 🟧 [LeetCode](LEETCODE_PROFILE_LINK)
+* 📈 Continuous, structured problem-solving practice
 
----
+<br>
 
-## 📊 GitHub Stats
+## GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" height="170"/>
-</p>
+<div align="center">
 
----
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=default" />
 
-## 🔥 Contribution Streak
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&theme=default" />
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true"/>
-</p>
+</div>
 
----
+<br>
 
-## 🤝 Connect With Me
+## Connect
 
-<p align="left">
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
 
----
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat-square\&logo=linkedin\&logoColor=white)](LINKEDIN_PROFILE_LINK)
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat-square\&logo=github\&logoColor=white)](https://github.com/YOUR_USERNAME)
 
-### 💬 "Build. Learn. Solve. Repeat."
-
-⭐ Thanks for visiting my profile!
+</div>
