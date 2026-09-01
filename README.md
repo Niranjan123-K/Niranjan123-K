@@ -77,7 +77,7 @@ Software developer focused on full-stack development, backend engineering, and A
 
 | Project                                                       | Description                                                                                                          | Tech Stack                        |
 | ------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | --------------------------------- |
-| **[VeeLearn](PROJECT_LINK)**                                  | Reciprocal learning marketplace where users act as both learner and teacher, backed by a ledger-based credit system. | Spring Boot · React · MySQL · JWT |
+| **[VeeLearn](PROJECT_LINK)**                                  | Reciprocal learning marketplace where users act as both learner and teacher, backed by a ledger-based credit system. | PostgreSQL, Express.js, React 19, Node.js |
 | **[Multimodal AI Web Accessibility Assistant](PROJECT_LINK)** | Accessibility assistant leveraging multimodal AI to help users navigate and interact with web content.               | AI / LLM · JavaScript             |
 | **[BeaconFlow](PROJECT_LINK)**                                | A workflow-oriented application designed around structured, event-driven processes.                                  | Full Stack                        |
 
