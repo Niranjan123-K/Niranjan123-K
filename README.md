@@ -26,31 +26,32 @@ Software developer focused on full-stack development, backend engineering, and A
 <td valign="top" width="50%">
 
 **Languages**
-![Java](https://img.shields.io/badge/-Java-000?style=flat-square\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-000?style=flat-square\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat-square\&logo=javascript\&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square\&logo=c\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
 
 **Frontend**
-![HTML](https://img.shields.io/badge/-HTML5-000?style=flat-square\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-000?style=flat-square\&logo=css3\&logoColor=white)
-![React](https://img.shields.io/badge/-React-000?style=flat-square\&logo=react\&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-000?style=flat-square\&logo=tailwindcss\&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
 
 </td>
 <td valign="top" width="50%">
 
 **Backend**
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-000?style=flat-square\&logo=springboot\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square\&logo=springboot\&logoColor=white)
 
 **Database**
-![MySQL](https://img.shields.io/badge/-MySQL-000?style=flat-square\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat-square\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
 
 **Tools**
-![Git](https://img.shields.io/badge/-Git-000?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat-square\&logo=github\&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-000?style=flat-square\&logo=postman\&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-000?style=flat-square\&logo=firebase\&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square\&logo=firebase\&logoColor=black)
 
 </td>
 </tr>
@@ -75,11 +76,12 @@ Software developer focused on full-stack development, backend engineering, and A
 
 ## Projects
 
-| Project                                                       | Description                                                                                                          | Tech Stack                        |
-| ------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | --------------------------------- |
-| **[VeeLearn](PROJECT_LINK)**                                  | Reciprocal learning marketplace where users act as both learner and teacher, backed by a ledger-based credit system. | PostgreSQL, Express.js, React 19, Node.js |
-| **[Multimodal AI Web Accessibility Assistant](PROJECT_LINK)** | Accessibility assistant leveraging multimodal AI to help users navigate and interact with web content.               | AI / LLM · JavaScript             |
-| **[BeaconFlow](PROJECT_LINK)**                                | A workflow-oriented application designed around structured, event-driven processes.                                  | Full Stack                        |
+| Project | Description | Tech Stack |
+| ------- | ----------- | ---------- |
+| **[BeaconFlow](PROJECT_LINK)** | A workflow-oriented application designed around structured, event-driven processes. | `Spring Boot` · `React` · `MySQL` · `Chrome Extension` · `AI/GenAI` · `JWT` |
+| **[VeeLearn](PROJECT_LINK)** | Reciprocal learning marketplace where users act as both learner and teacher, backed by a ledger-based credit system. | `Spring Boot` · `React` · `PostgreSQL` · `JWT` · `WebSockets` · `JPA/Hibernate` |
+| **[RateGuard](PROJECT_LINK)** | Full-stack application built with Spring Boot and React, with real-time updates over WebSocket. | `Spring Boot` · `React` · `MySQL` · `Spring AOP` · `WebSocket` · `JPA/Hibernate` |
+| **[Multimodal AI Web Accessibility Assistant](PROJECT_LINK)** | Accessibility assistant leveraging multimodal AI to help users navigate and interact with web content. | `AI / LLM` · `JavaScript` |
 
 <br>
 
@@ -110,7 +112,7 @@ Actively strengthening core fundamentals through consistent practice.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/niranjan-kn/)
-[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Niranjan123-K)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/niranjan-kn/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Niranjan123-K)
 
 </div>
